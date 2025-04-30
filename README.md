@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+  <html>
+    <head> 
+<title> OK </title>
+    <meta charset="UTF-8">
+    </head>
+    <body>
+<p style="color: blue;">HỮU ĐEP TRAI ĐI HÁT NHÂN VIÊN 2018 </p> 
+      <br>
+       <img src="https://i.imgur.com/yc4C0HU.jpeg" alt="hữu đẹp trai" width="200" height="250">
+      <hr>
+      <h1>HỌ VÀ TÊN </h1>
+      <p> LƯƠNG  BÍCH HỮU</p>
+      <hr>
+      <h1> QUÊ QUÁN </h1>
+      <p> BAMBOO TOWER </p>
+      <hr>
+      <h1>SỞ THÍCH </h1>
+      <p> CV</p>
+    <a href="https://caideo.net" target="blank"> liên hệ zalo </a>
+    </body>
+</html>
